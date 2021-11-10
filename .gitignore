@@ -78,3 +78,6 @@ Temporary Items
 *.exe
 *.out
 *.app
+
+# Visual Studio
+*/Debug/
